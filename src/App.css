@@ -5,9 +5,8 @@
 	font-size: 40px;
 	background-color: #565269;
 	color: aliceblue;
-	font-weight: Regular 400;
 	height: 100px;
-	font-family: Josefin Sans;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .App {
 	height: 100vh;
